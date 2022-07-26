@@ -1,4 +1,6 @@
 test/
 node_modules/
+dist
+*.cjs
 vite.config.ts
 jest-setup.ts
